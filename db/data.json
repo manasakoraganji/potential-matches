@@ -1,0 +1,92 @@
+[
+    {
+    "id": 1,
+    "name": "Naina Patel",
+    "hobbies": [
+      "Music",
+      "Chess",
+      "Dance"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Pari Singh",
+    "hobbies": [
+      "Music",
+      "Cooking",
+      "Reading"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Hema Chandra",
+    "hobbies": [
+      "Cooking",
+      "Photography",
+      "Painting"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Sukesh Rath",
+    "hobbies": [
+      "Music",
+      "Cooking",
+      "Reading"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Karesh Heng",
+    "hobbies": [
+      "Gardening",
+      "Traveling",
+      "Playing guitar"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Rathod Mane",
+    "hobbies": [
+      "Dance",
+      "Reading",
+      "Photography"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "John Doe",
+    "hobbies": [
+      "Cooking",
+      "Photography",
+      "Playing chess"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Jane Smith",
+    "hobbies": [
+      "Gardening",
+      "Writing",
+      "Swimming"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Alice Johnson",
+    "hobbies": [
+      "Singing",
+      "Swimming",
+      "Hiking"
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Bob Williams",
+    "hobbies": [
+      "Writing",
+      "Yoga",
+      "Playing chess"
+    ]
+  }
+]
